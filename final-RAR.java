@@ -336,7 +336,7 @@ void listInfo(){
   textSize(14);
   text(instr2, 50, height/7.5); 
   text(instr3, 50, height/1.4);
-  text(instr4, width/1.5, height/3.5);
+  text(instr4, width/1.5, height/3.7);
 }
 
 
